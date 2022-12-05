@@ -8,3 +8,6 @@
 - tricks
 - curl cheat.sh/xxx
 - Reference Card
+
+#### eg.
+- **how to** use emacs
