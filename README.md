@@ -1,5 +1,5 @@
 
-## How to use Google to search?
+## How to search on Google
 - best practice 
 - how to
 - cheat sheet
