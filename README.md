@@ -11,3 +11,6 @@
 - cookbook
 #### eg.
 - **how to** use emacs
+
+## Other
+- search plugin name on Youtube.  (for emacs)
