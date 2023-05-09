@@ -14,3 +14,4 @@
 
 ## Other
 - search plugin name on Youtube.  (for emacs)
+- Follow up with contributors
