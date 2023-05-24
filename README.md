@@ -12,6 +12,11 @@
 #### eg.
 - **how to** use emacs
 
+## Website
+- reddit
+- youtube
+- github
+
 ## Other
 - search plugin name on Youtube.  (for emacs)
 - Follow up with contributors
