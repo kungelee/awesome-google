@@ -1,6 +1,7 @@
 
 ## How to search on Google
 - best practice 
+- recommended practices
 - how to
 - cheat sheet
 - awesome
