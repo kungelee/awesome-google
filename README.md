@@ -9,6 +9,7 @@
 - tricks
 - curl cheat.sh/xxx
 - Reference Card
+- refcard
 - cookbook
 #### eg.
 - **how to** use emacs
