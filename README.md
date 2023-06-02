@@ -18,6 +18,7 @@
 - reddit
 - youtube
 - github
+- quora
 
 ## Other
 - search plugin name on Youtube.  (for emacs)
