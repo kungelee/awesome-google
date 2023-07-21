@@ -11,14 +11,17 @@
 - Reference Card
 - refcard
 - cookbook
+- tutorial
+- course
+
 #### eg.
 - **how to** use emacs
 
 ## Website
-- reddit
-- youtube
-- github
-- quora
+- Reddit
+- YouTube
+- GitHub
+- Quora
 
 ## Other
 - search plugin name on Youtube.  (for emacs)
