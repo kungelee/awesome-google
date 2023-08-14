@@ -24,6 +24,6 @@
 - Quora
 
 ## Other
-- search plugin name on Youtube.  (for emacs)
+- search plugin name on YouTube.  (for emacs)
 - Follow up with contributors
-- google syntax
+- Google syntax
