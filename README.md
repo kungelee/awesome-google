@@ -13,6 +13,7 @@
 - cookbook
 - tutorial
 - course
+- right way
 
 #### eg.
 - **how to** use emacs
